@@ -1,5 +1,6 @@
 
 """
+Мамедов Амиль
 Я изучил работу https://github.com/bchkrvn/HW_21.git
 1)
 
